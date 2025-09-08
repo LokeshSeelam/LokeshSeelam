@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**LokeshSeelam/LokeshSeelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Seelam Lokesh/Seelam Lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
